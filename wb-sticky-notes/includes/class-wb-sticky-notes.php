@@ -99,7 +99,7 @@ class Wb_Sticky_Notes {
 		if ( defined( 'WB_STICKY_NOTES_VERSION' ) ) {
 			$this->version = WB_STICKY_NOTES_VERSION;
 		} else {
-			$this->version = '1.2.5';
+			$this->version = '1.2.6';
 		}
 		$this->plugin_name =WB_STICKY_PLUGIN_NAME;
 

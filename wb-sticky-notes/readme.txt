@@ -3,9 +3,9 @@ Contributors: webbuilder143
 Donate link: https://webbuilder143.com/?utm_source=wordpressorg&utm_medium=readme&utm_campaign=donate-link&utm_id=notes-plugin&utm_content=donate
 Tags: sticky notes, dashboard notes, admin notes, reminders, notes
 Requires at least: 3.5.0
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 5.6
-Stable tag: 1.2.5
+Stable tag: 1.2.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,6 +73,10 @@ Yes. From the plugin settings, select the admin screens where you want to hide n
 3. Notes archive page  
 
 == Changelog ==
+
+= 1.2.6 =
+* Tested with: WooCommerce 10.6.1
+* Tested with: WP 7.0-RC1
 
 = 1.2.5 =
 * Security updates
@@ -154,10 +158,11 @@ Yes. From the plugin settings, select the admin screens where you want to hide n
 
 == Upgrade Notice ==
 
-= 1.2.5 =
-* Security updates
+= 1.2.6 =
+* Tested with: WooCommerce 10.6.1
+* Tested with: WP 7.0-RC1
 
 == Our Other Free Plugins ==  
 
 1. [Custom Product Tabs for WooCommerce](https://wordpress.org/plugins/wb-custom-product-tabs-for-woocommerce/)  
-2. [WB Mail Logger](https://wordpress.org/plugins/wb-mail-logger/)  
+2. [Mail Logger for WordPress](https://wordpress.org/plugins/wb-mail-logger/)  
